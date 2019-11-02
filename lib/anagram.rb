@@ -12,4 +12,5 @@ class Anagram
       self.word.split("").sort == array_word.split("").sort
     end
   end
+  
 end
